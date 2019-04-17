@@ -1,0 +1,14 @@
+
+  .reframe {
+    position: relative;
+    width: 210px;
+    height: 140px;
+    left: 20px;
+    top: 14px;
+  }
+  
+  body {
+    background-color: #00008B;
+    padding: 20px;
+    margin: 0;
+  }
