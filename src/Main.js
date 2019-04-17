@@ -24,7 +24,7 @@ class Main extends Component {
           <ul className="header">
    
 
-         <li><NavLink exact to="/">Store</NavLink></li>
+         <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/stuff">Stuff</NavLink></li>
             <li><NavLink to="/contact">SteamGreenlight</NavLink></li>
 			      <li><NavLink to="/games">User</NavLink></li>
